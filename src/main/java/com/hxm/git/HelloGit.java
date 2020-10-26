@@ -16,7 +16,7 @@ public class HelloGit {
 		
 		System.out.println("在线更新");
 		
-		System.out.println("测试SSH");
+		
 		
 		System.out.println("2 测试SSH");
 		
