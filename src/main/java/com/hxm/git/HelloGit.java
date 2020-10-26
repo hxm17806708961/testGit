@@ -3,7 +3,7 @@ package com.hxm.git;
  * @Description 
  * @author hxm Email:550085798@qq.com
  * @version 1.0
- * @date 2020Äê10ÔÂ26ÈÕ ÏÂÎç4:16:24
+ * @date 2020å¹´10æœˆ26æ—¥ ä¸‹åˆ4:16:24
  */
 public class HelloGit {
 
@@ -11,13 +11,15 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Git!");
-		System.out.println("´´½¨·ÖÖ§");
-		System.out.println("¸üĞÂ1");
+		System.out.println("åˆ›å»ºåˆ†æ”¯");
+		System.out.println("æ›´æ–°1");
 
-		System.out.println("Ö÷¸ÉÌí¼Ó");
+		System.out.println("ä¸»å¹²æ·»åŠ ");
 
 
-		System.out.println("·ÖÖ§Ìí¼Ó");
+		System.out.println("åˆ†æ”¯æ·»åŠ ");
+		
+		System.out.println("åœ¨çº¿æ›´æ–°");
 
 	}
 
