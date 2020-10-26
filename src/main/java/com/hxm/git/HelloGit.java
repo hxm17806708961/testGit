@@ -1,26 +1,20 @@
 package com.hxm.git;
-/**
- * @Description 
- * @author hxm Email:550085798@qq.com
- * @version 1.0
- * @date 2020年10月26日 下午4:16:24
- */
+
 public class HelloGit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello Git!");
-		System.out.println("创建分支");
-		System.out.println("更新1");
+		System.out.println("鍒涘缓鍒嗘敮");
+		System.out.println("鏇存柊1");
 
-		System.out.println("主干添加");
+		System.out.println("涓诲共娣诲姞");
 
 
-		System.out.println("分支添加");
+		System.out.println("鍒嗘敮娣诲姞");
 		
-		System.out.println("第二次提交之前更新");
-
+		System.out.println("鍦ㄧ嚎鏇存柊");
 	}
 
 }
